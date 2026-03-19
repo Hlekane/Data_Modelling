@@ -1,0 +1,4 @@
+What is Data Modelling?https://www.microsoft.com/en-za/power-platform/products/power-bi/topics/data-modeling/what-is-data-modeling#:~:text=Data%20modeling%20is%20the%20process%20of%20analyzing,in%20understanding%20and%20clarifying%20your%20data%20requirements.
+
+https://www.activityinfo.org/blog/posts/2024-10-21-a-guide-to-data-modelling-key-principles-and-design-considerations.html#:~:text=Data%20modeling%20is%20the%20process%20of%20creating,Reduces%20data%20redundancy%20and%20ensures%20data%20integrity
+
