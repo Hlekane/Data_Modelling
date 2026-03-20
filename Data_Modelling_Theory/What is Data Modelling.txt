@@ -1,4 +1,23 @@
-What is Data Modelling?https://www.microsoft.com/en-za/power-platform/products/power-bi/topics/data-modeling/what-is-data-modeling#:~:text=Data%20modeling%20is%20the%20process%20of%20analyzing,in%20understanding%20and%20clarifying%20your%20data%20requirements.
+What is Data Modelling?
 
-https://www.activityinfo.org/blog/posts/2024-10-21-a-guide-to-data-modelling-key-principles-and-design-considerations.html#:~:text=Data%20modeling%20is%20the%20process%20of%20creating,Reduces%20data%20redundancy%20and%20ensures%20data%20integrity
+Source: https://www.activityinfo.org/blog/posts/2024-10-21-a-guide-to-data-modelling-key-principles-and-design-considerations.html#:~:text=Data%20modeling%20is%20the%20process%20of%20creating,Reduces%20data%20redundancy%20and%20ensures%20data%20integrity
+
+The process of creating well structured data systems, ensuring that the database is organised, efficient and capable of supporting the flow of information crucial to your project's success.
+The process of analysing and defining all the different data types your business collects and produces as well as the relationship between those bits of data.
+
+A diagram that visually represent a conceptual framework for organising, defining and showing the relationship between data elements. A well-structured data model enhances your ability to efficiently store, retrieve, and manipulate data. By defining rules and constraints, it ensures data integrity and consistency.
+
+Key consideration for data model design: 
+Security: Security is another vital consideration when designing a data model. Defining who needs access to specific data and why. This helps meet policy requirements and protects sensitive information. A clear security framework ensures that data access is aligned with organizational policies and compliance regulations.
+Scalability and documentation: A good data model serves as a blueprint for future growth, making it easier to expand and scale your data system. It provides a clear, structured representation of the data, which is crucial for ongoing documentation and for anyone who needs to understand the system as it evolves.
+Data integration: Most organizations rely on multiple data sources, which can create silos of information. A well-designed data model defines how different systems and data sources relate to one another, enabling smoother data integration and a more holistic view of the organization’s data landscape.
+Communication: A data model provides a common language for communication between different stakeholders, including data scientists, developers, and non-technical team members. This shared understanding ensures that everyone involved in the project can collaborate more effectively, making it easier to align objectives and expectations.
+
+Data modelling Fundamental Principles and Framework:
+
+Entity Relationship Principle: Entities represent real-world objects or concepts, so defining how they interact is key in data modelling
+Normalisation: s a data modelling process used to organize a database into smaller, related tables. The primary purpose of normalization is to reduce data redundancy and ensure data integrity. By breaking down a large dataset into smaller, more focused tables, it minimizes duplicate data, ensuring consistency across the database.
+The normalization process involves dividing a large table into smaller, related tables and establishing clear relationships between them using foreign keys. This ensures that data is stored in an organized manner, making the database more efficient and scalable while ensuring data consistency across multiple entries.
+
+https://learn.microsoft.com/en-us/training/modules/configure-semantic-model-power-bi/2-relationships
 
